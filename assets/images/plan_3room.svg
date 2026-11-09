@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%">
+  <rect width="600" height="450" fill="#0B1329" rx="8"/>
+  <rect x="30" y="30" width="540" height="390" fill="#131D38" stroke="#334155" stroke-width="3"/>
+  <!-- Living Room -->
+  <rect x="30" y="30" width="290" height="210" fill="#1E293B" stroke="#475569" stroke-width="2"/>
+  <text x="175" y="130" fill="#F8FAFC" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Просторная гостиная</text>
+  <text x="175" y="155" fill="#D4AF37" font-family="sans-serif" font-size="14" font-weight="600" text-anchor="middle">32.5 м²</text>
+  <!-- Bedroom 1 -->
+  <rect x="320" y="30" width="250" height="190" fill="#1A253D" stroke="#475569" stroke-width="2"/>
+  <text x="445" y="120" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Спальня 1 (20.1 м²)</text>
+  <!-- Bedroom 2 -->
+  <rect x="30" y="240" width="230" height="180" fill="#1A253D" stroke="#475569" stroke-width="2"/>
+  <text x="145" y="330" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Спальня 2 (17.8 м²)</text>
+  <!-- Kitchen -->
+  <rect x="260" y="240" width="170" height="180" fill="#162035" stroke="#475569" stroke-width="2"/>
+  <text x="345" y="330" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Кухня (16.2 м²)</text>
+  <!-- Bathrooms & Hall -->
+  <rect x="430" y="220" width="140" height="200" fill="#1A2744" stroke="#475569" stroke-width="2"/>
+  <text x="500" y="315" fill="#94A3B8" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">2 Санузла</text>
+  <text x="500" y="335" fill="#94A3B8" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Гардероб (15 м²)</text>
+</svg>

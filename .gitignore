@@ -1,0 +1,6 @@
+.DS_Store
+*.py
+__pycache__/
+archive/
+assets/images/real_*.jpg
+*.bak
