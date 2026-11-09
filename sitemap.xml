@@ -1,12 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://inshootshahr.tj/</loc>
-    <lastmod>2026-11-04</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://www.inshootshahr.tj/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inshootshahr.tj/?lang=ru"/>
-    <xhtml:link rel="alternate" hreflang="tg" href="https://inshootshahr.tj/?lang=tg"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.inshootshahr.tj/"/>
+    <xhtml:link rel="alternate" hreflang="tg" href="https://www.inshootshahr.tj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.inshootshahr.tj/"/>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/images/hero_render.jpg</image:loc>
+      <image:title>Жилой комплекс Modern Towers в Душанбе — Inshoot Shahr (Муосирсоз)</image:title>
+      <image:caption>Архитектурный ансамбль из 4 башен на проспекте Негмата Карабаева</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/v2/window.webp</image:loc>
+      <image:title>Панорамное остекление в квартирах Modern Towers</image:title>
+      <image:caption>Вид из окон на город Душанбе и горные пейзажи</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/v2/playground.webp</image:loc>
+      <image:title>Закрытый двор-парк без машин Modern Towers</image:title>
+      <image:caption>Ландшафтный дизайн, детские площадки и зоны отдыха</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/v2/penthouse.webp</image:loc>
+      <image:title>Пентхаус с террасой в Душанбе</image:title>
+      <image:caption>Видовые резиденции на 21 этаже с открытыми террасами</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/v2/parking.webp</image:loc>
+      <image:title>Двухуровневый подземный паркинг Modern Towers</image:title>
+      <image:caption>Охраняемый паркинг с прямым доступом к скоростным лифтам</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/plans/ag.webp</image:loc>
+      <image:title>Планировки квартир Блоки А и Г Modern Towers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/plans/bv.webp</image:loc>
+      <image:title>Планировки квартир Блоки Б и В Modern Towers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.inshootshahr.tj/assets/plans/ph.webp</image:loc>
+      <image:title>Планировка пентхауса Modern Towers</image:title>
+    </image:image>
   </url>
 </urlset>

@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://inshootshahr.tj/sitemap.xml
+# Directives for Search Engines
+Sitemap: https://www.inshootshahr.tj/sitemap.xml
+Host: https://www.inshootshahr.tj
